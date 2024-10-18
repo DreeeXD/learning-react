@@ -1,5 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
+import {jsx as _jsx} from "react/jsx-runtime.js"
 import App from './App.jsx'
 
 function MyApp(){
